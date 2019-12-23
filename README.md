@@ -1,5 +1,5 @@
-# image-compression-using-pca
-image compression using principal component analysis
+# Image-compression-using-pca
+Image compression using principal component analysis
 
  Principal component analysis (PCA) is one of the statistical techniques frequently used in signal processing to the data dimension reduction or to the data decorrelation
  
