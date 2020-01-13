@@ -1,15 +1,4 @@
-%*************************************************************************%
-% EE330 : Digital Communication course project
-% Image compression using Principal component analysis (PCA)
-% Team: 
-%       1) Mahesh Reginthala (170102054)
-%       2) Yuva Kishore (170102083)
-%       3) Borra Lakshman Kumar (170102023)
-%
-% Principal component analysis (PCA) is one of the statistical techniques 
-% frequently used in signal processing to the data dimension reduction or 
-% to the data decorrelation.
-%*************************************************************************%
+
 
 
 clear;
